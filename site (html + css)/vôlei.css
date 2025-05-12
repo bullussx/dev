@@ -1,0 +1,14 @@
+body{
+    background-image: url(imagens/fundo.png);
+    background-size: cover; /* serve pra imagem cobrir toda a tela */
+     background-repeat: no-repeat;
+     background-attachment: fixed; /* fixar a imagem, formato de celular */
+}
+
+a{
+    color: rgb(0, 0, 0);
+}
+
+a:hover{
+    color: chocolate;
+}
